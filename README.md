@@ -1,2 +1,2 @@
 # hello-world
-As written by our forefathers, Hello World!
+As written by our friends, Hello World!
